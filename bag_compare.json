@@ -1,0 +1,142 @@
+{
+  "bags": [
+    {
+      "id": "blooming",
+      "name": { "KO": "Blooming bag", "JA": "Blooming bag", "EN": "Blooming bag" },
+      "type": { "KO": "미니백", "JA": "ミニバッグ", "EN": "Mini Bag" },
+      "colors": {
+        "KO": ["실버", "블랙", "뮤트 핑크", "베이비 블루", "빈티지 브라운", "크림 아이보리", "버터 옐로우"],
+        "JA": ["シルバー", "ブラック", "ミュートピンク", "ベビーブルー", "ヴィンテージブラウン", "クリームアイボリー", "バターイエロー"],
+        "EN": ["Silver", "Black", "Mute Pink", "Baby Blue", "Vintage Brown", "Cream Ivory", "Butter Yellow"]
+      },
+      "weight": "450g",
+      "material": { "KO": "은은한 광택감, 크랙 텍스처", "JA": "上品な光沢、クラックテクスチャー", "EN": "Subtle sheen, crack texture" },
+      "lock": { "KO": "스냅 버튼", "JA": "スナップボタン", "EN": "Snap button" },
+      "feature": { "KO": "반듯한 쉐잎에 사첼 핸들 디자인", "JA": "端正なシェイプのサッチェルハンドルデザイン", "EN": "Structured shape with satchel handle design" },
+      "images": {
+        "detail": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%EB%B8%94%EB%A3%A8%EB%B0%8D%EB%B0%B1%20%EC%83%81%EC%84%B8%20%EC%82%AC%EC%A7%84.jpg",
+        "interior": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%EB%B8%94%EB%A3%A8%EB%B0%8D%20%EB%B0%B1%20%EB%82%B4%EB%B6%80%20%EC%88%98%EB%82%A9%EA%B3%B5%EA%B0%84.jpg",
+        "style": [
+          { "label": { "KO": "토트 연출", "JA": "トート", "EN": "Tote" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250115/46dd84c10f9e787d8c60558d946eb436.jpg" },
+          { "label": { "KO": "베이직 스트랩", "JA": "ベーシックストラップ", "EN": "Basic Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250115/09d0806472e3ea84f050f75faa410f24.jpg" },
+          { "label": { "KO": "체인 스트랩", "JA": "チェーンストラップ", "EN": "Chain Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250110/06a257064d2229c41d122d2cf63c3d6d.jpg" }
+        ]
+      }
+    },
+    {
+      "id": "mellow",
+      "name": { "KO": "Mellow bag", "JA": "Mellow bag", "EN": "Mellow bag" },
+      "type": { "KO": "미니백", "JA": "ミニバッグ", "EN": "Mini Bag" },
+      "colors": {
+        "KO": ["블랙", "빈티지 레드", "월넛 브라운", "버터 베이지"],
+        "JA": ["ブラック", "ヴィンテージレッド", "ウォルナットブラウン", "バターベージュ"],
+        "EN": ["Black", "Vintage Red", "Walnut Brown", "Butter Beige"]
+      },
+      "weight": "380g",
+      "material": { "KO": "은은한 광택감, 크랙 텍스처", "JA": "上品な光沢、クラックテクスチャー", "EN": "Subtle sheen, crack texture" },
+      "lock": { "KO": "턴락", "JA": "ターンロック", "EN": "Turn lock" },
+      "feature": { "KO": "아코디언 내부 확장 가능", "JA": "アコーディオン内部拡張可能", "EN": "Accordion interior expansion" },
+      "images": {
+        "detail": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%EB%A9%9C%EB%A1%9C%EC%9A%B0%EB%B0%B1%20%EC%83%81%EC%84%B8%20%EC%82%AC%EC%A7%84.jpg",
+        "interior": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%EB%A9%9C%EB%A1%9C%EC%9A%B0%EB%B0%B1%20%EB%82%B4%EB%B6%80%20%EC%88%98%EB%82%A9%EA%B3%B5%EA%B0%84.jpg",
+        "style": [
+          { "label": { "KO": "토트 연출", "JA": "トート", "EN": "Tote" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250501/ca46866fa6a21969f898f305a4f7893e.jpg" },
+          { "label": { "KO": "베이직 스트랩", "JA": "ベーシックストラップ", "EN": "Basic Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250501/513b428991b0074d3893aa9813725495.jpg" },
+          { "label": { "KO": "숏 체인 스트랩", "JA": "ショートチェーン", "EN": "Short Chain" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250501/a6fbb9321ecbe7e51f04087cbaeb9222.jpg" },
+          { "label": { "KO": "롱 체인 스트랩", "JA": "ロングチェーン", "EN": "Long Chain" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250110/2f6c51ec86bc1b10719565bb7728c3c3.jpg" }
+        ]
+      }
+    },
+    {
+      "id": "henne_mini",
+      "name": { "KO": "Henne Mini", "JA": "Henne Mini", "EN": "Henne Mini" },
+      "type": { "KO": "미니 토트백", "JA": "ミニトートバッグ", "EN": "Mini Tote Bag" },
+      "colors": {
+        "KO": ["더스티 블루", "올리브", "바닐라", "소프트 블랙", "카라멜 브라운"],
+        "JA": ["ダスティブルー", "オリーブ", "バニラ", "ソフトブラック", "キャラメルブラウン"],
+        "EN": ["Dusty Blue", "Olive", "Vanilla", "Soft Black", "Caramel Brown"]
+      },
+      "weight": "약 300g",
+      "material": { "KO": "오플 엠보 텍스처", "JA": "オープルエンボステクスチャー", "EN": "Opple embossed texture" },
+      "lock": { "KO": "스트랩 락", "JA": "ストラップロック", "EN": "Strap lock" },
+      "feature": { "KO": "미니 파우치참 증정", "JA": "ミニポーチチャームプレゼント", "EN": "Mini pouch charm included" },
+      "images": {
+        "detail": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%ED%97%A8%EB%8A%90%EB%B0%B1%20%EB%AF%B8%EB%8B%88%20%EC%83%81%EC%84%B8%EC%82%AC%EC%A7%84.JPG",
+        "interior": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%ED%95%B8%EB%8A%90%EB%B0%B1%20%EB%AF%B8%EB%8B%88%20%EB%82%B4%EB%B6%80%20%EC%88%98%EB%82%A9%EA%B3%B5%EA%B0%84.jpg",
+        "style": [
+          { "label": { "KO": "토트 연출", "JA": "トート", "EN": "Tote" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20260116/dc7a18c3c5cc044e199fc2a95b13ff1f.jpg" },
+          { "label": { "KO": "베이직 스트랩", "JA": "ベーシックストラップ", "EN": "Basic Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20260116/7becc5177b2e7d3904663548f533988f.jpg" },
+          { "label": { "KO": "체인 스트랩", "JA": "チェーンストラップ", "EN": "Chain Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20260116/d2f6e0864d904aef1cbcaf70ec7a6402.jpg" }
+        ]
+      }
+    },
+    {
+      "id": "henne_medium",
+      "name": { "KO": "Henne Medium", "JA": "Henne Medium", "EN": "Henne Medium" },
+      "type": { "KO": "미디엄 토트백", "JA": "ミディアムトートバッグ", "EN": "Medium Tote Bag" },
+      "colors": {
+        "KO": ["버터", "카라멜 브라운", "토프 모카", "소프트 블랙"],
+        "JA": ["バター", "キャラメルブラウン", "トープモカ", "ソフトブラック"],
+        "EN": ["Butter", "Caramel Brown", "Taupe Mocha", "Soft Black"]
+      },
+      "weight": "약 630g",
+      "material": { "KO": "오플 엠보 텍스처", "JA": "オープルエンボステクスチャー", "EN": "Opple embossed texture" },
+      "lock": { "KO": "스트랩 락", "JA": "ストラップロック", "EN": "Strap lock" },
+      "feature": { "KO": "미니 파우치참 증정", "JA": "ミニポーチチャームプレゼント", "EN": "Mini pouch charm included" },
+      "images": {
+        "detail": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%ED%97%A8%EB%8A%90%EB%B0%B1%20%EB%AF%B8%EB%94%94%EC%97%84%20%EC%83%81%EC%84%B8%20%EC%82%AC%EC%A7%84.jpg",
+        "interior": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%ED%97%A8%EB%8A%90%EB%B0%B1%20%EB%AF%B8%EB%94%94%EC%97%84%20%EB%82%B4%EB%B6%80%20%EC%88%98%EB%82%A9%EA%B3%B5%EA%B0%84.jpg",
+        "style": [
+          { "label": { "KO": "토트 연출", "JA": "トート", "EN": "Tote" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250705/a085849391b0647b0b5d248ab024a46d.jpg" },
+          { "label": { "KO": "베이직 스트랩", "JA": "ベーシックストラップ", "EN": "Basic Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250705/b68c135b7d70dc9b40378faba944b84b.jpg" },
+          { "label": { "KO": "체인 스트랩", "JA": "チェーンストラップ", "EN": "Chain Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250705/0ecb5c0d730de58cd0cb51e01018d7db.jpg" }
+        ]
+      }
+    },
+    {
+      "id": "henne_large",
+      "name": { "KO": "Henne Large", "JA": "Henne Large", "EN": "Henne Large" },
+      "type": { "KO": "라지 토트백", "JA": "ラージトートバッグ", "EN": "Large Tote Bag" },
+      "colors": {
+        "KO": ["바닐라", "소프트 블랙", "딥 브라운", "카라멜 브라운"],
+        "JA": ["バニラ", "ソフトブラック", "ディープブラウン", "キャラメルブラウン"],
+        "EN": ["Vanilla", "Soft Black", "Deep Brown", "Caramel Brown"]
+      },
+      "weight": "900g대",
+      "material": { "KO": "오플 엠보 텍스처", "JA": "オープルエンボステクスチャー", "EN": "Opple embossed texture" },
+      "lock": { "KO": "스트랩 락", "JA": "ストラップロック", "EN": "Strap lock" },
+      "feature": { "KO": "미니 파우치참 증정", "JA": "ミニポーチチャームプレゼント", "EN": "Mini pouch charm included" },
+      "images": {
+        "detail": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%ED%97%A8%EB%8A%90%EB%B0%B1%20%EB%9D%BC%EC%A7%80%20%EC%83%81%EC%84%B8%EC%82%AC%EC%A7%84.jpg",
+        "interior": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%ED%97%A8%EB%8A%90%EB%B0%B8%20%EB%9D%BC%EC%A7%80%20%EB%82%B4%EB%B6%80%20%EC%88%98%EB%82%A9%EA%B3%B5%EA%B0%84.jpg",
+        "style": [
+          { "label": { "KO": "토트 연출 1", "JA": "トート 1", "EN": "Tote 1" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250501/4fcd13dc555f47d4010bc1f1c635f8f0.jpg" },
+          { "label": { "KO": "토트 연출 2", "JA": "トート 2", "EN": "Tote 2" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20250110/edd8de450de74ba6ff6ebd0772938772.jpg" }
+        ]
+      }
+    },
+    {
+      "id": "aro",
+      "name": { "KO": "Aro bag", "JA": "Aro bag", "EN": "Aro bag" },
+      "type": { "KO": "미니 백팩", "JA": "ミニバックパック", "EN": "Mini Backpack" },
+      "colors": {
+        "KO": ["바닐라", "소프트 블랙", "카라멜 브라운"],
+        "JA": ["バニラ", "ソフトブラック", "キャラメルブラウン"],
+        "EN": ["Vanilla", "Soft Black", "Caramel Brown"]
+      },
+      "weight": "약 540g",
+      "material": { "KO": "오플 엠보 텍스처", "JA": "オープルエンボステクスチャー", "EN": "Opple embossed texture" },
+      "lock": { "KO": "턴락", "JA": "ターンロック", "EN": "Turn lock" },
+      "feature": { "KO": "곡선을 살린 플랩 쉐입, 무게감을 최소화한 균형적 설계", "JA": "曲線を活かしたフラップシェイプ、重さを最小化したバランス設計", "EN": "Curved flap shape with balanced weight distribution" },
+      "images": {
+        "detail": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%EC%95%84%EB%A1%9C%EB%B0%B1%20%EC%83%81%EC%84%B8%20%EC%82%AC%EC%A7%84.jpg",
+        "interior": "https://raw.githubusercontent.com/seowon-hi/yyeon-reviews/refs/heads/main/%EC%95%84%EB%A1%9C%EB%B0%B1%20%EB%82%B4%EB%B6%80%20%EC%88%98%EB%82%A9%EA%B3%B5%EA%B0%84.jpg",
+        "style": [
+          { "label": { "KO": "토트 연출", "JA": "トート", "EN": "Tote" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20251115/4978fb460c9d7f181689dffb8336b93e.jpg" },
+          { "label": { "KO": "베이직 스트랩", "JA": "ベーシックストラップ", "EN": "Basic Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20251115/c54a731638e8c4000c336864cb33e20d.jpg" },
+          { "label": { "KO": "체인 스트랩", "JA": "チェーンストラップ", "EN": "Chain Strap" }, "url": "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/upload/NNEditor/20251115/b8d9a5a2eebf859e660555e7760be02f.jpg" }
+        ]
+      }
+    }
+  ]
+}
