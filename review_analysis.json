@@ -1,0 +1,737 @@
+{
+  "blooming": {
+    "name": "Blooming bag",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20240920/24b49a6c19157e2af2c90708113ddd61.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241101/0a2efe0cf813ae471201df4bb51ad2d6.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241101/60601b03b466bcd5654a995399657be5.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241105/4339f7a8d302cb21380931d5a85fc705.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20240920/bf5d7024ced04e649850c340cf1fe992.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241105/2987f2369608a19e929cb489d5d0387d.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241105/9b5bcb1ab05598edf0342720f39de9b0.jpg"
+    ],
+    "total": 271,
+    "avg_rating": 4.77,
+    "positive_percent": 94.8,
+    "summary": {
+      "KO": {
+        "positive": [
+          "수납력 좋고 예쁘다는 의견 압도적으로 많음",
+          "색상이 실물이 더 예쁘다는 후기 다수",
+          "선물용으로 구매한 후기 많음 (포장 만족)"
+        ],
+        "tips": [
+          "데일리/출근/주말 모두 활용"
+        ],
+        "negative": [
+          "미니백 특성상 생각보다 작다는 의견 있음",
+          "체인 스트랩 길이가 짧다는 의견 존재",
+          "일부 실밥 마감 불량 후기 (소수)"
+        ]
+      },
+      "JA": {
+        "positive": [
+          "収納力が良くてきれいだという意見 圧倒的に多い",
+          "色が実物がよりきれいであることの後期多数",
+          "ギフト用に購入したレビューが多い（包装満足）"
+        ],
+        "tips": [
+          "デイリー/出勤/週末の両方を活用"
+        ],
+        "negative": [
+          "ミニバッグの特性上、思ったより小さいという意見あり",
+          "チェーンストラップの長さが短いという意見の存在",
+          "一部縫い締め切り不良（少数）"
+        ]
+      },
+      "EN": {
+        "positive": [
+          "There are overwhelmingly many opinions that it has good storage capacity and is pretty.",
+          "Many reviews say the color is prettier in real life",
+          "Many reviews of people purchasing it as a gift (satisfied with the packaging)"
+        ],
+        "tips": [
+          "Daily/commute/weekend use"
+        ],
+        "negative": [
+          "Some say that due to the nature of the mini bag, it is smaller than expected.",
+          "There are opinions that the chain strap length is short.",
+          "Some reviews of poor seam finish (small number)"
+        ]
+      }
+    },
+    "trust": {
+      "score": 88,
+      "photo_review_percent": 100,
+      "short_review_percent": 14,
+      "negative_percent": 1.8,
+      "badges": {
+        "KO": [
+          {
+            "type": "good",
+            "text": "자사몰 사진 포함 리뷰 100%"
+          },
+          {
+            "type": "good",
+            "text": "반복 표현 감지 적음"
+          },
+          {
+            "type": "warn",
+            "text": "짧은 리뷰(30자 미만) 14% 존재"
+          }
+        ],
+        "JA": [
+          {
+            "type": "good",
+            "text": "ザサモール写真付きレビュー100％"
+          },
+          {
+            "type": "good",
+            "text": "繰り返し表現の検出が少ない"
+          },
+          {
+            "type": "warn",
+            "text": "短いレビュー（30文字未満）14％存在"
+          }
+        ],
+        "EN": [
+          {
+            "type": "good",
+            "text": "100% reviews including photos from our own mall"
+          },
+          {
+            "type": "good",
+            "text": "Less detection of repetitive expressions"
+          },
+          {
+            "type": "warn",
+            "text": "Short reviews (less than 30 characters) 14% present"
+          }
+        ]
+      }
+    },
+    "features": {
+      "KO": [
+        "수납력 우수",
+        "색상 다양",
+        "선물용 인기",
+        "파우치 없이 사용 가능",
+        "데일리 활용도 높음"
+      ],
+      "JA": [
+        "収納力優秀",
+        "色の多様性",
+        "ギフト用人気",
+        "ポーチなしで利用可能",
+        "デイリー活用も高い"
+      ],
+      "EN": [
+        "Excellent storage capacity",
+        "Various colors",
+        "Popular for gifts",
+        "Can be used without pouch",
+        "High daily usability"
+      ]
+    },
+    "ai_recommendation": {
+      "KO": "색상 선택이 중요하고 선물용으로도 좋은 데일리 미니백을 찾는 분께 추천",
+      "JA": "カラー選択が大切でプレゼント用にもいいデイリーミニバッグをお探しの方におすすめ",
+      "EN": "Recommended for those who are looking for a daily mini bag where color selection is important and is also good as a gift."
+    },
+    "rating_dist": {
+      "5": 230,
+      "4": 27,
+      "3": 9,
+      "2": 3,
+      "1": 2
+    },
+    "top_keywords": {
+      "KO": [
+        "수납",
+        "색상",
+        "만족",
+        "예쁨",
+        "컬러",
+        "디자인",
+        "파우치"
+      ],
+      "JA": [
+        "収納",
+        "色",
+        "満足",
+        "可愛い",
+        "色",
+        "デザイン",
+        "ポーチ"
+      ],
+      "EN": [
+        "acceptance",
+        "color",
+        "content",
+        "comeliness",
+        "color",
+        "design",
+        "pouch"
+      ]
+    },
+    "use_cases": {
+      "KO": [
+        "선물",
+        "데일리",
+        "출근",
+        "주말"
+      ],
+      "JA": [
+        "贈り物",
+        "デイリー",
+        "出勤",
+        "週末"
+      ],
+      "EN": [
+        "gift",
+        "daily",
+        "go to work",
+        "weekend"
+      ]
+    }
+  },
+  "henne": {
+    "name": "Henne bag",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260220/dafe3a8fa22a23d75e67f02e5c30892d.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260220/0b13b5669258cd4e75133061bb51bb1e.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260220/92b539d1dc9f8ebbd11802ee5c7dce72.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260220/0cad83e7c62fe4437ebc845e706e50d9.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260220/0942bb313a1802790acbe577b2f60274.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20250717/348b0856e00c5898e7d75829d1573c6f.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20250717/7e2e9b6edd25f679a5be510f6daf87b4.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20250717/9394c9821ea7d416544a5382e797db74.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20250717/ea8ae12489afbfe2c25190a70153090b.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260107/e48e492eb384ddb52d027da0032d7b95.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20250110/243a01de622c75c4dae01ce7c4ef5833.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20250113/27a62bdbcdda7914bc651c4e72c0ed61.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20250110/56327fb6bd76372d0898703273731c16.jpg"
+    ],
+    "total": 108,
+    "avg_rating": 4.56,
+    "positive_percent": 88.0,
+    "summary": {
+      "KO": {
+        "positive": [
+          "수납력이 뛰어나다는 의견 압도적",
+          "파우치 없이도 정리 잘 된다는 후기",
+          "노트북/아이패드 수납 가능하다는 언급 많음"
+        ],
+        "tips": [
+          "출근/직장용으로 구매한 후기 가장 많음",
+          "여행용으로도 활용"
+        ],
+        "negative": [
+          "생각보다 크기가 작다는 의견 있음",
+          "무겁다는 의견 일부 존재",
+          "마감 아쉽다는 후기 소수"
+        ]
+      },
+      "JA": {
+        "positive": [
+          "収納力に優れるという意見圧倒的",
+          "ポーチなしで整理するのは良いことです",
+          "ノートブック/iPadが収納可能であると言及されています"
+        ],
+        "tips": [
+          "出勤/職場用に購入した後の最も多い",
+          "旅行にも活用"
+        ],
+        "negative": [
+          "思ったよりサイズが小さいという意見あり",
+          "重いという意見の一部存在",
+          "締め切り残念だ"
+        ]
+      },
+      "EN": {
+        "positive": [
+          "The overwhelming opinion is that it has excellent storage capacity.",
+          "Reviews say it can be easily organized without a pouch",
+          "Many mention that laptop/iPad storage is possible."
+        ],
+        "tips": [
+          "Most reviews purchased for commuting/work use",
+          "Also used for travel"
+        ],
+        "negative": [
+          "Some say it is smaller than expected",
+          "There are some opinions that it is heavy.",
+          "A few reviews said the ending was disappointing"
+        ]
+      }
+    },
+    "trust": {
+      "score": 85,
+      "photo_review_percent": 97,
+      "short_review_percent": 5,
+      "negative_percent": 8.3,
+      "badges": {
+        "KO": [
+          {
+            "type": "good",
+            "text": "자사몰 사진 포함 리뷰 97%"
+          },
+          {
+            "type": "good",
+            "text": "짧은 리뷰 비율 5%로 낮음"
+          },
+          {
+            "type": "warn",
+            "text": "부정 리뷰 비율 8.3%로 타 제품 대비 높음"
+          }
+        ],
+        "JA": [
+          {
+            "type": "good",
+            "text": "ザサモール写真付きレビュー 97%"
+          },
+          {
+            "type": "good",
+            "text": "短いレビュー率が5％低い"
+          },
+          {
+            "type": "warn",
+            "text": "否定レビュー率8.3％で他製品と比較して高い"
+          }
+        ],
+        "EN": [
+          {
+            "type": "good",
+            "text": "97% of reviews include photos from our own mall"
+          },
+          {
+            "type": "good",
+            "text": "Short review rate as low as 5%"
+          },
+          {
+            "type": "warn",
+            "text": "The negative review rate is 8.3%, which is higher than other products"
+          }
+        ]
+      }
+    },
+    "features": {
+      "KO": [
+        "노트북/태블릿 수납 가능",
+        "텀블러 수납 가능",
+        "출근용 인기",
+        "파우치 불필요",
+        "고급스러운 디자인"
+      ],
+      "JA": [
+        "ノートパソコン/タブレット収納可能",
+        "タンブラー収納可能",
+        "出勤用人気",
+        "ポーチ不要",
+        "豪華なデザイン"
+      ],
+      "EN": [
+        "Laptop/tablet storage possible",
+        "Tumbler storage possible",
+        "Popular for commuting to work",
+        "No pouch needed",
+        "luxurious design"
+      ]
+    },
+    "ai_recommendation": {
+      "KO": "노트북·텀블러 들고 출퇴근하는 직장인에게 최적화된 가방",
+      "JA": "ノートパソコン・タンブラーを持って出退勤する会社員に最適化されたバッグ",
+      "EN": "A bag optimized for office workers who commute to work with a laptop and tumbler."
+    },
+    "rating_dist": {
+      "5": 88,
+      "4": 7,
+      "3": 4,
+      "2": 4,
+      "1": 5
+    },
+    "top_keywords": {
+      "KO": [
+        "수납",
+        "만족",
+        "파우치",
+        "디자인",
+        "색상",
+        "출근",
+        "고급"
+      ],
+      "JA": [
+        "収納",
+        "満足",
+        "ポーチ",
+        "デザイン",
+        "色",
+        "出勤",
+        "高度"
+      ],
+      "EN": [
+        "acceptance",
+        "content",
+        "pouch",
+        "design",
+        "color",
+        "go to work",
+        "advanced"
+      ]
+    },
+    "use_cases": {
+      "KO": [
+        "출근",
+        "선물",
+        "여행",
+        "데일리",
+        "직장"
+      ],
+      "JA": [
+        "出勤",
+        "贈り物",
+        "旅行",
+        "デイリー",
+        "職場"
+      ],
+      "EN": [
+        "go to work",
+        "gift",
+        "travel",
+        "daily",
+        "rectal"
+      ]
+    }
+  },
+  "mellow": {
+    "name": "Mellow bag",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241118/8342b6ff22ed47f5a1825cb9775ac8e9.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241118/5e34cb5cc93f04861618b490f62ad495.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241118/acdaf201ce4ddf53201ef5f650743589.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20241118/7e4ce2fca85910e6f08f3f784f318dc4.jpg"
+    ],
+    "total": 55,
+    "avg_rating": 4.78,
+    "positive_percent": 94.5,
+    "summary": {
+      "KO": {
+        "positive": [
+          "컬러가 예쁘다는 의견 압도적 (44회 언급)",
+          "데일리/여행용으로 활용도 높음",
+          "1점·2점 리뷰 0개, 가장 만족도 높은 제품"
+        ],
+        "tips": [
+          "데이트·여행·데일리 모두 활용"
+        ],
+        "negative": [
+          "미니백 특성상 작다는 의견 다수",
+          "체인 스트랩 길이 짧다는 의견 일부"
+        ]
+      },
+      "JA": {
+        "positive": [
+          "色がきれいだという意見圧倒的（44回言及）",
+          "デイリー/旅行用として活用も高い",
+          "1点・2点レビュー0件、最も満足度の高い製品"
+        ],
+        "tips": [
+          "デート・旅行・デイリーともに活用"
+        ],
+        "negative": [
+          "ミニバッグの特性上小さいという意見多数",
+          "チェーンストラップの長さが短いという意見の一部"
+        ]
+      },
+      "EN": {
+        "positive": [
+          "Overwhelming opinion that the color is pretty (mentioned 44 times)",
+          "Highly usable for daily/travel purposes",
+          "0 reviews of 1 or 2 points, most satisfactory product"
+        ],
+        "tips": [
+          "Used for dating, travel, and daily life"
+        ],
+        "negative": [
+          "Many opinions say that the mini bag is small due to its nature.",
+          "Some opinions say that the chain strap length is short."
+        ]
+      }
+    },
+    "trust": {
+      "score": 82,
+      "photo_review_percent": 100,
+      "short_review_percent": 20,
+      "negative_percent": 0,
+      "badges": {
+        "KO": [
+          {
+            "type": "good",
+            "text": "자사몰 사진 포함 리뷰 100%"
+          },
+          {
+            "type": "good",
+            "text": "부정 리뷰 0개"
+          },
+          {
+            "type": "warn",
+            "text": "짧은 리뷰 20% 존재 (리뷰 수 적어 비율 높음)"
+          }
+        ],
+        "JA": [
+          {
+            "type": "good",
+            "text": "ザサモール写真付きレビュー100％"
+          },
+          {
+            "type": "good",
+            "text": "否定レビュー0件"
+          },
+          {
+            "type": "warn",
+            "text": "ショートレビュー20％存在（レビュー数少ない割合が高い）"
+          }
+        ],
+        "EN": [
+          {
+            "type": "good",
+            "text": "100% reviews including photos from our own mall"
+          },
+          {
+            "type": "good",
+            "text": "0 negative reviews"
+          },
+          {
+            "type": "warn",
+            "text": "20% of short reviews (high ratio due to low number of reviews)"
+          }
+        ]
+      }
+    },
+    "features": {
+      "KO": [
+        "컬러 다양하고 예쁨",
+        "데일리/여행 활용",
+        "수납 충분",
+        "고급스러운 느낌"
+      ],
+      "JA": [
+        "色多様で可愛い",
+        "デイリー/旅行活用",
+        "収納十分",
+        "豪華な感じ"
+      ],
+      "EN": [
+        "Colorful and pretty",
+        "Daily/travel use",
+        "Enough storage",
+        "luxurious feel"
+      ]
+    },
+    "ai_recommendation": {
+      "KO": "색감과 무드를 중시하는 분, 데일리·여행 겸용 원하는 분께 추천",
+      "JA": "色味とムードを重視する方、デイリー・旅行兼用ご希望の方におすすめ",
+      "EN": "Recommended for those who value color and mood, and those who want to use it for both daily and travel purposes."
+    },
+    "rating_dist": {
+      "5": 46,
+      "4": 6,
+      "3": 3,
+      "2": 0,
+      "1": 0
+    },
+    "top_keywords": {
+      "KO": [
+        "컬러",
+        "수납",
+        "예쁨",
+        "색상",
+        "고급",
+        "파우치",
+        "데일리"
+      ],
+      "JA": [
+        "色",
+        "収納",
+        "可愛い",
+        "色",
+        "高度",
+        "ポーチ",
+        "デイリー"
+      ],
+      "EN": [
+        "color",
+        "acceptance",
+        "comeliness",
+        "color",
+        "advanced",
+        "pouch",
+        "daily"
+      ]
+    },
+    "use_cases": {
+      "KO": [
+        "데일리",
+        "여행",
+        "선물",
+        "데이트"
+      ],
+      "JA": [
+        "デイリー",
+        "旅行",
+        "贈り物",
+        "デート"
+      ],
+      "EN": [
+        "daily",
+        "travel",
+        "gift",
+        "date"
+      ]
+    }
+  },
+  "aro": {
+    "name": "Aro bag",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260108/8a342a826f78e58114c30d45585d48d5.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260108/624abcfbb7f642cd936f7a2064a8e57f.jpg",
+      "https://ecimg.cafe24img.com/pg1240b55797764052/bemyyeons2/web/product/big/20260108/434344dd70f977be3a0966f27a65f7fe.jpg"
+    ],
+    "total": 5,
+    "avg_rating": 5.0,
+    "positive_percent": 100,
+    "summary": {
+      "KO": {
+        "positive": [
+          "전원 ★5점, 만족도 100%",
+          "수납력·디자인·색상 모두 언급"
+        ],
+        "tips": [],
+        "negative": [
+          "리뷰 수 적어 참고 필요"
+        ]
+      },
+      "JA": {
+        "positive": [
+          "全員★5点、満足度100%",
+          "収納力・デザイン・色ともに言及"
+        ],
+        "tips": [],
+        "negative": [
+          "レビュー数が少ないので注意が必要"
+        ]
+      },
+      "EN": {
+        "positive": [
+          "Everyone ★5 points, satisfaction 100%",
+          "Storage capacity, design, and color are all mentioned"
+        ],
+        "tips": [],
+        "negative": [
+          "Need to note the small number of reviews"
+        ]
+      }
+    },
+    "trust": {
+      "score": 70,
+      "photo_review_percent": 100,
+      "short_review_percent": 0,
+      "negative_percent": 0,
+      "badges": {
+        "KO": [
+          {
+            "type": "good",
+            "text": "사진 포함 100%"
+          },
+          {
+            "type": "good",
+            "text": "짧은 리뷰 0%"
+          },
+          {
+            "type": "warn",
+            "text": "리뷰 수 5개로 통계적 신뢰도 낮음"
+          }
+        ],
+        "JA": [
+          {
+            "type": "good",
+            "text": "写真付き100％"
+          },
+          {
+            "type": "good",
+            "text": "短いレビュー0％"
+          },
+          {
+            "type": "warn",
+            "text": "5件のレビューで統計的信頼性が低い"
+          }
+        ],
+        "EN": [
+          {
+            "type": "good",
+            "text": "100% including photos"
+          },
+          {
+            "type": "good",
+            "text": "Short Reviews 0%"
+          },
+          {
+            "type": "warn",
+            "text": "Statistical reliability is low with only 5 reviews"
+          }
+        ]
+      }
+    },
+    "features": {
+      "KO": [
+        "수납 충분",
+        "디자인 만족",
+        "색상 다양"
+      ],
+      "JA": [
+        "収納十分",
+        "デザイン満足",
+        "色の多様性"
+      ],
+      "EN": [
+        "Enough storage",
+        "design satisfaction",
+        "Various colors"
+      ]
+    },
+    "ai_recommendation": {
+      "KO": "아직 후기가 적지만 만족도 100%인 신상 가방, 미니백 찾는 분께 추천",
+      "JA": "まだレビューは少ないが満足度100%の新作バッグ、ミニバッグをお探しの方におすすめ",
+      "EN": "A new bag with few reviews yet but 100% satisfaction, recommended for those looking for a mini bag"
+    },
+    "rating_dist": {
+      "5": 5,
+      "4": 0,
+      "3": 0,
+      "2": 0,
+      "1": 0
+    },
+    "top_keywords": {
+      "KO": [
+        "수납",
+        "디자인",
+        "색상"
+      ],
+      "JA": [
+        "収納",
+        "デザイン",
+        "色"
+      ],
+      "EN": [
+        "acceptance",
+        "design",
+        "color"
+      ]
+    },
+    "use_cases": {
+      "KO": [],
+      "JA": [],
+      "EN": []
+    }
+  }
+}
